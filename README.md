@@ -1,0 +1,1 @@
+# Pardus-ETAP-19-Wine-Kurulumu
